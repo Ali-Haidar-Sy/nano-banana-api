@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Ali-Haidar-Sy/nano-banana-api/stargazers"><img src="https://img.shields.io/github/stars/Ali-Haidar-Sy/nano-banana-api?style=for-the-badge&color=yellow"></a>
-  <a href="https://github.com/Ali-Haidar-Sy/nano-banana-api/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Ali-Haidar-Sy/nano-banana-api?style=for-the-badge&color=blue"></a>
+  <a href="[https://github.com/Ali-Haidar-Sy/nano-banana-api/blob/main/LICENSE](https://github.com/Ali-Haidar-Sy/nano-banana-api/tree/main#)"><img src="https://img.shields.io/github/license/Ali-Haidar-Sy/nano-banana-api?style=for-the-badge&color=blue"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://t.me/P33_9"><img src="https://img.shields.io/badge/Telegram-@P33_9-2CA5E0?style=for-the-badge&logo=telegram"></a>
   <a href="https://www.instagram.com/_ungn"><img src="https://img.shields.io/badge/Instagram-@_ungn-E4405F?style=for-the-badge&logo=instagram"></a>
